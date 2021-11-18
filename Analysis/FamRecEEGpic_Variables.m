@@ -144,7 +144,7 @@ curexperiment.Nelectrodes           = 32;
 % number of external electrodes
 curexperiment.Nextelectrodes        = 8;
 % filtering
-curexperiment.bp_lowfreq            = .5;
+curexperiment.bp_lowfreq            = .1;
 curexperiment.bp_highfreq           = 30;
 % participants that switched up old/new responses
 curexperiment.subjectsWrong         = {};  
