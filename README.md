@@ -1,4 +1,4 @@
-# The electrophysiology of subjectively perceived memory confidence in relation to recollection and familiarity
+# Electrocortical indices of subjectively perceived confidence in episodic memory
 Here you will find the experimental design and analysis script used in the aformentioned published paper. The scripts were not created to be widely used by others, so may not be user-friendly. The scripts were altered by deleting redundancy and remove participant-specific steps. In this way, readability and generalizability has increased.
 
 # Experimental Design
